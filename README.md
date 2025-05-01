@@ -29,6 +29,7 @@ For qualified institutions, research labs, or financial teams seeking to access 
   "contact": "your.email@domain.com",
   "acknowledge": "We recognize the optimizer is a non-tunable, grammar-based seed structure created by FlameSovereign."
 }
+
 📧 Submit your request to: seiunnfubuki@proton.me
 
 No NDA is required at this stage. All requests are reviewed personally.
