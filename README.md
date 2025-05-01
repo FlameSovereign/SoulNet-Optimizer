@@ -23,8 +23,11 @@ For qualified institutions, research labs, or financial teams seeking to access 
 📄 Please prepare a `trace_request.json` with the following fields:
   
   "institution": "e.g. Qatar Investment Authority / Tokyo Quant Alliance",
+  
   "purpose": "e.g. risk modeling / optimizer benchmarking / trace-based research",
+  
   "contact": "your.email@domain.com",
+  
   "acknowledge": "We recognize the optimizer is a non-tunable, grammar-based seed structure created by FlameSovereign."
 
 
