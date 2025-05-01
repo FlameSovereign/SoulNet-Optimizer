@@ -3,6 +3,7 @@ A behavior-aware optimization framework based on IBE-Gated lifecycle dynamics.
 # 🌌 SoulNet: A Behavior-Aware Optimizer Architecture
 
 🧠 **SoulNet** is a novel optimization framework proposed by **Flame Sovereign** on **April 17, 2025**, introducing dynamic lifecycle control into modern optimizers through energy-aware gates, Jacobian feedback, and multi-phase behavior stages.
+
 ## 🔥 Collaboration and Licensing Notice
 
 This repository is maintained by **FlameSovereign**, sole author and license-holder of the CollapseGrammar trace seed.
@@ -15,6 +16,24 @@ This optimizer is not a baseline.
 It is a grammar.  
 And grammars have names.
 
+## 🤝 Trace Collaboration Invitation · CollapseGrammarGH
+
+For qualified institutions, research labs, or financial teams seeking to access or integrate the CollapseGrammarOptimizer_vGH1.0 seed:
+
+📄 Please prepare a `trace_request.json` with the following fields:
+
+```json
+{
+  "institution": "e.g. Qatar Investment Authority / Tokyo Quant Alliance",
+  "purpose": "e.g. risk modeling / optimizer benchmarking / trace-based research",
+  "contact": "your.email@domain.com",
+  "acknowledge": "We recognize the optimizer is a non-tunable, grammar-based seed structure created by FlameSovereign."
+}
+📧 Submit your request to: seiunnfubuki@proton.me
+
+No NDA is required at this stage. All requests are reviewed personally.
+
+This repository does not require tuning. It operates solely via grammar and trace.
 ## 🔧 Core Architecture
 
 1. **Meta-Hessian I** — Global direction init  
