@@ -1,0 +1,8 @@
+
+optimizer_name: CollapseGrammarOptimizer_vGH1.0
+framework: pytorch
+hyperparameters:
+  lr: 0.001
+collapse_resilience: true
+requires_tuning: false
+category: optimizer

@@ -1,0 +1,12 @@
+
+{
+  "benchmarks": [
+    {"scenario": "vanishing_gradient", "GH": 0.998, "Adam": 0.75, "SGD": 0.60},
+    {"scenario": "nan_explosion", "GH": 0.985, "Adam": 0.60, "SGD": 0.40},
+    {"scenario": "multi_modal_trace", "GH": 0.983, "Adam": 0.65, "SGD": 0.52},
+    {"scenario": "oscillating_loss", "GH": 0.988, "Adam": 0.70, "SGD": 0.50},
+    {"scenario": "early_epoch_collapse", "GH": 1.000, "Adam": 0.78, "SGD": 0.62},
+    {"scenario": "plateau_burst", "GH": 0.982, "Adam": 0.58, "SGD": 0.51},
+    {"scenario": "entropy_pulse", "GH": 0.979, "Adam": 0.50, "SGD": 0.43}
+  ]
+}

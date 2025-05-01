@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CollapseGrammarGH",
+    "start_loss": 0.6238,
+    "end_loss": 0.5739,
+    "loss_drop": 0.0499,
+    "stability": 0.98
+  },
+  {
+    "name": "Adam",
+    "start_loss": 0.6996,
+    "end_loss": 0.0065,
+    "loss_drop": 0.6931,
+    "stability": 0.98
+  },
+  {
+    "name": "SGD",
+    "start_loss": 0.6318,
+    "end_loss": 0.5044,
+    "loss_drop": 0.1274,
+    "stability": 0.98
+  },
+  {
+    "name": "RMSprop",
+    "start_loss": 0.6832,
+    "end_loss": 0.0014,
+    "loss_drop": 0.6818,
+    "stability": 0.98
+  }
+]

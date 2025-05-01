@@ -1,0 +1,38 @@
+{
+  "CollapseGrammarGH": {
+    "loss_drop": 0.0526,
+    "stability": 0.98,
+    "collapse_integrity": {
+      "has_nan": false,
+      "rebound": false,
+      "loss_range": 0.0526
+    }
+  },
+  "Adam": {
+    "loss_drop": 0.681,
+    "stability": 0.98,
+    "collapse_integrity": {
+      "has_nan": false,
+      "rebound": false,
+      "loss_range": 0.681
+    }
+  },
+  "SGD": {
+    "loss_drop": 0.1442,
+    "stability": 0.98,
+    "collapse_integrity": {
+      "has_nan": false,
+      "rebound": false,
+      "loss_range": 0.1442
+    }
+  },
+  "RMSprop": {
+    "loss_drop": 0.704,
+    "stability": 0.98,
+    "collapse_integrity": {
+      "has_nan": false,
+      "rebound": false,
+      "loss_range": 0.704
+    }
+  }
+}
