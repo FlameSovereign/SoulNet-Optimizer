@@ -2,7 +2,7 @@
 A behavior-aware optimization framework based on IBE-Gated lifecycle dynamics.
 # 🌌 SoulNet: A Behavior-Aware Optimizer Architecture
 
-🧠 **SoulNet** is a novel optimization framework proposed by **Juntao Xu（菅原天野）** on **April 17, 2025**, introducing dynamic lifecycle control into modern optimizers through energy-aware gates, Jacobian feedback, and multi-phase behavior stages.
+🧠 **SoulNet** is a novel optimization framework proposed by **Flame Sovereign** on **April 17, 2025**, introducing dynamic lifecycle control into modern optimizers through energy-aware gates, Jacobian feedback, and multi-phase behavior stages.
 
 ## 🔧 Core Architecture
 
